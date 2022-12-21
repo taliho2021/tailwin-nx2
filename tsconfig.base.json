@@ -14,7 +14,10 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@tailwin-nx2/lib1": ["libs/lib1/src/index.ts"],
+      "@tailwin-nx2/lib2": ["libs/lib2/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
