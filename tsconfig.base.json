@@ -16,7 +16,8 @@
     "baseUrl": ".",
     "paths": {
       "@tailwin-nx2/lib1": ["libs/lib1/src/index.ts"],
-      "@tailwin-nx2/lib2": ["libs/lib2/src/index.ts"]
+      "@tailwin-nx2/lib2": ["libs/lib2/src/index.ts"],
+      "@tailwin-nx2/lib3": ["libs/lib3/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
